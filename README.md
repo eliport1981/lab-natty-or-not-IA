@@ -11,6 +11,7 @@ criação do texto da mensagem de ano novo com o chat GPT e posteriormente a con
 
 ## 🚀 Resultados
 o resultado foi uma mensagem de voz de feliz ano novo aos empregados da caixa
+
 [link para ouvir a mensagem de ano novo: ] (Feliz ano Caixa 2025.mp3)
 
 ## 💭 Reflexão (Opcional)
