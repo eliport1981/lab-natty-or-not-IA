@@ -11,10 +11,7 @@ criação do texto da mensagem de ano novo com o chat GPT e posteriormente a con
 
 ## 🚀 Resultados
 o resultado foi uma mensagem de voz de feliz ano novo aos empregados da caixa
-[link para ouvir a mensagem de ano novo] (Feliz ano Caixa 2025.mp3)
-<audio controls>
-    <source src="https://github.com/eliport1981/lab-natty-or-not-IA/blob/main/Feliz%20ano%20Caixa%202025.mp3" type="audio/mp3">
-</audio>
+[link para ouvir a mensagem de ano novo: ] (Feliz ano Caixa 2025.mp3)
 
 ## 💭 Reflexão (Opcional)
 Fazer um projeto utilizando a IA foi uma experiência gratificante, show!!.
